@@ -2,13 +2,43 @@
 
 
 
-
 body{
-
-    margin-left:  200px ;
-    margin-right: 200px ;
+    margin:auto;
 
 }
+
+
+.pt1{
+    height: 400px;
+}
+
+.pt1,
+.pt4{
+
+    padding-left:  200px ;
+    padding-right: 200px ;
+    
+
+}
+
+.pt1,
+.pt5{
+
+    background-color: #1f2937;
+}
+
+.pt2,
+.pt4{
+    background-color: white ;
+}
+
+.pt3{
+    background-color: #E5E7EB;
+}
+
+
+
+
 
 .hp1{
 
