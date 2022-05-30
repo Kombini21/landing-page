@@ -1,0 +1,84 @@
+
+
+body{
+    margin-left:  200px ;
+    margin-right: 200px ;
+}
+
+.hp1{
+    display: flex;
+    
+    flex-flow: wrap;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 30px;
+}
+
+.hp1 p{
+
+    margin-right: auto;
+    
+}
+
+.dv1{
+    display: flex;
+    margin-top: 100px;
+}
+
+.dvq1{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid red;
+    width: 500px;
+    margin-right: 50px;
+    
+
+    
+}
+
+.dv1 button{
+
+    width: 100px;
+    height: 30px;
+    margin-top: -10px;
+
+}
+
+.dv1 h4{
+
+    margin-top: -20px;
+    
+
+}
+
+.pt2{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    
+    
+
+}
+
+.p2h1{
+
+    text-align: center;
+    
+}
+
+.p2im2{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    text-align: center;
+    gap: 30px;
+
+    margin-top: 40px;
+}
+
+.imgt1{
+
+    display: flex;
+    flex-direction: column;
+}
+ 
